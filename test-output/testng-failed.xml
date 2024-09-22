@@ -5,9 +5,9 @@
     <classes>
       <class name="com.Redbus.tests.RedbusSearchTest">
         <methods>
+          <include name="searchTrain"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="viewOffers"/>
         </methods>
       </class> <!-- com.Redbus.tests.RedbusSearchTest -->
     </classes>

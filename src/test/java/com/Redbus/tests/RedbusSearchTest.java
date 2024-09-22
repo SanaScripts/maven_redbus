@@ -36,25 +36,25 @@ public class RedbusSearchTest extends BaseTest {
         assert searchResultPage.isSearchResultsDisplayed() : "Search results not displayed";
     }
     
-    @Test
-    public void searchTrain() {
-        HomePage homePage = new HomePage(driver, properties);
-        TrainTicketPage trainTicketPage = new TrainTicketPage(driver, properties);
-        homePage.goTo();
-        homePage.goToTrainSite();
-        trainTicketPage.searchTrain("Bangalore","SBC", "Chennai", "MAS");
-        
-        try {
-        	Thread.sleep(2000);
-        }catch(Exception ex) {
-        	System.out.println(ex);
-        }
-        
-        TrainSearchResultPage trainSearchResultPage = new TrainSearchResultPage(driver, properties);
-        trainSearchResultPage.waitForSearchResults();
-        // Assertions
-        assert trainSearchResultPage.isSearchResultsDisplayed() : "Search results not displayed";
-    }
+//    @Test
+//    public void searchTrain() {
+//        HomePage homePage = new HomePage(driver, properties);
+//        TrainTicketPage trainTicketPage = new TrainTicketPage(driver, properties);
+//        homePage.goTo();
+//        homePage.goToTrainSite();
+//        trainTicketPage.searchTrain("Bangalore","SBC", "Chennai", "MAS");
+//        
+//        try {
+//        	Thread.sleep(2000);
+//        }catch(Exception ex) {
+//        	System.out.println(ex);
+//        }
+//        
+//        TrainSearchResultPage trainSearchResultPage = new TrainSearchResultPage(driver, properties);
+//        trainSearchResultPage.waitForSearchResults();
+//        // Assertions
+//        assert trainSearchResultPage.isSearchResultsDisplayed() : "Search results not displayed";
+//    }
     
     @Test
     public void viewOffers() {

@@ -770,3 +770,47 @@
 21:42:18.374 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: OfferSection__ViewAllText-sc-16xojcc-1
 21:42:19.053 [main] INFO  com.Redbus.utils.BasePage - Waiting for elements to be visible: By.className: offerBlock
 21:42:22.423 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: offerClose
+21:58:50.666 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: rail_tickets_vertical
+21:58:52.156 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: src
+21:58:52.318 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: dst
+21:58:57.430 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: dst_search_wrapper
+21:58:57.556 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: dst_search_wrapper
+21:58:57.666 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: dst_search_wrapper
+21:58:57.871 [main] INFO  com.Redbus.utils.BasePage - Clicking on element: By.className: search-btn
+21:58:57.871 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: search-btn
+21:58:59.998 [main] INFO  com.Redbus.utils.BasePage - Waiting for elements to be visible: By.className: search_tupple_wrap
+22:01:45.944 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: rail_tickets_vertical
+22:01:56.604 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: src
+22:02:00.407 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: dst
+22:02:08.761 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: dst_search_wrapper
+22:02:09.156 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: dst_search_wrapper
+22:02:09.518 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: dst_search_wrapper
+22:02:10.000 [main] INFO  com.Redbus.utils.BasePage - Clicking on element: By.className: search-btn
+22:02:10.001 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: search-btn
+22:46:29.458 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: src
+22:46:29.605 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: sc-dnqmqq
+22:46:30.289 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: src
+22:46:30.510 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: dest
+22:46:30.622 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: sc-dnqmqq
+22:46:31.327 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: dest
+22:46:32.084 [main] INFO  com.Redbus.utils.BasePage - Clicking on element: By.id: search_button
+22:46:32.084 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: search_button
+22:46:32.216 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: result-section
+22:46:34.973 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: sort-sec
+22:46:35.301 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: sort-sec
+22:46:35.608 [main] INFO  com.Redbus.utils.BasePage - Checking if element is displayed: By.id: result-section
+22:46:35.608 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: result-section
+22:46:39.468 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: src
+22:46:39.646 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: sc-dnqmqq
+22:46:40.454 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: src
+22:46:40.651 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: dest
+22:46:40.754 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: sc-dnqmqq
+22:46:41.382 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: dest
+22:46:42.004 [main] INFO  com.Redbus.utils.BasePage - Clicking on element: By.id: search_button
+22:46:42.004 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: search_button
+22:46:42.100 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: result-section
+22:46:44.079 [main] INFO  com.Redbus.utils.BasePage - Checking if element is displayed: By.id: result-section
+22:46:44.079 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: result-section
+22:46:47.430 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.className: OfferSection__ViewAllText-sc-16xojcc-1
+22:46:48.090 [main] INFO  com.Redbus.utils.BasePage - Waiting for elements to be visible: By.className: offerBlock
+22:46:50.387 [main] INFO  com.Redbus.utils.BasePage - Waiting for element to be visible: By.id: offerClose
