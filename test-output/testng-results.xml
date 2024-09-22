@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-22T19:11:22 IST" name="Default suite" finished-at="2024-09-22T19:11:29 IST" duration-ms="6980">
+    <groups>
+    </groups>
+    <test started-at="2024-09-22T19:11:22 IST" name="Default test" finished-at="2024-09-22T19:11:29 IST" duration-ms="6980">
+      <class name="com.Redbus.tests.RedbusSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Redbus.tests.RedbusSearchTest@5b03b9fe]" started-at="2024-09-22T19:11:22 IST" name="setUp" finished-at="2024-09-22T19:11:25 IST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchBusTicket()[pri:0, instance:com.Redbus.tests.RedbusSearchTest@5b03b9fe]" started-at="2024-09-22T19:11:25 IST" name="searchBusTicket" finished-at="2024-09-22T19:11:29 IST" duration-ms="4455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBusTicket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Redbus.tests.RedbusSearchTest@5b03b9fe]" started-at="2024-09-22T19:11:29 IST" name="tearDown" finished-at="2024-09-22T19:11:29 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Redbus.tests.RedbusSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
