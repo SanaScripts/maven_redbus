@@ -1,6 +1,7 @@
-com\Redbus\pages\LoginPage.class
-com\Redbus\pages\TrainTicketPage.class
 com\Redbus\utils\BasePage.class
+com\Redbus\pages\TrainSearchResultPage.class
+com\Redbus\pages\HelpPage.class
+com\Redbus\pages\TrainTicketPage.class
+com\Redbus\pages\OffersPage.class
 com\Redbus\pages\SearchResultPage.class
 com\Redbus\pages\HomePage.class
-com\Redbus\pages\TrainSearchResultPage.class
